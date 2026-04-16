@@ -16,11 +16,11 @@ Backend developer working with Ruby on Rails, building and improving real-world 
 
 ### 🛠️ Main Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,docker,git,github" />
 </p>
 
-<p>
+<p align="center">
   🧪 RSpec • 🔗 REST APIs
 </p>
 
